@@ -1,7 +1,7 @@
 {
  "decks_sha256": {
-  "en": "ede22fc465e69598a051e9166ab2809a101998ab18a99ce3b5ca478d09d2f74b",
-  "ru": "f538d25d149ce629e63d1356e1aa34bcb66476bdaf57d44ecaf678216ed6d76c"
+  "en": "08432e8e48f9f72d37a0bae395c0521b9bd7f574a7bddf0c1d52ae58822b9e95",
+  "ru": "a7ccdeff40771fba9ab266e1af8f1ca7ce06ea0fd44bbef70f22e146d2d6d7a6"
  },
  "deck_ver": "1.2",
  "iter": 600000,
@@ -13,7 +13,7 @@
   "robots.txt": "331ea9090db0c9f6f597bd9840fd5b171830f6e0b3ba1cb24dfa91f0c95aedc1",
   "CNAME": "ae9e0aad562b5e154e06d1cdbb252331ef9ba8ad9510fdde8c1d9a37de58041c",
   ".nojekyll": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "payload-en.bin": "1fd264aac4f780c3d645ce6cab25e48a0fa20a5f2639057e4bc23de359d8fca4",
-  "payload-ru.bin": "1adb018b35ee14c82e9e03f414c7b7876117947ca4eb36c73a54f870b4a02ed1"
+  "payload-en.bin": "25c1fead7e86e6aac70f6ab38d16438ee9e23362dc8153246add0e1acb64dde8",
+  "payload-ru.bin": "73bb95e33b0efc8dbda2e30407e8fa78e74cc5b460631e9ff54962a361b764fc"
  }
 }
