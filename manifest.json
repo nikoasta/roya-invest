@@ -1,9 +1,9 @@
 {
  "decks_sha256": {
-  "en": "1404db80a0eca02fc367c2d2aff131f4cc3896ac13c9fceb8ca7da9887d351db",
-  "ru": "e7c13575e320526f616bd8a5df098f695123e45954543ed0a5dcd9a2308abb60"
+  "en": "7d1b9c3efdb508e9845cddc7f551b8f212f0708fde5b1c76bbb362e6e49f73a6",
+  "ru": "0a324178c85d4ce47caa3d0ad9f9420294caa2ee9df7837fbd511cd1dc98f769"
  },
- "deck_ver": "3.2",
+ "deck_ver": "3.3",
  "iter": 600000,
  "cname": "invest.royaresort.com",
  "template_sha16": "21766dcee649ffa3",
@@ -13,7 +13,7 @@
   "robots.txt": "331ea9090db0c9f6f597bd9840fd5b171830f6e0b3ba1cb24dfa91f0c95aedc1",
   "CNAME": "ae9e0aad562b5e154e06d1cdbb252331ef9ba8ad9510fdde8c1d9a37de58041c",
   ".nojekyll": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "payload-en.bin": "1f5f7d8cba7eada07b0af8982c45245170994659a708aea4c4ad6d5c6cb4e819",
-  "payload-ru.bin": "ddcff89c90675f521b171fe01833c70d167112c003d0cde5d133f76a92845840"
+  "payload-en.bin": "c252307cb901d968cf33f35c461a7573e22eebe8d921dd4999c8481a439e51ca",
+  "payload-ru.bin": "2205807926351fbe454cca4275b56733364c0358d38a9f5d7d8a42d3b415d29c"
  }
 }
